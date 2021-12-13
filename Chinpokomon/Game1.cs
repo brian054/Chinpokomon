@@ -1,7 +1,7 @@
 ﻿using Microsoft.Xna.Framework;
 using Microsoft.Xna.Framework.Graphics;
 using Microsoft.Xna.Framework.Input;
-
+// Nathan if you see this it worked
 namespace Chinpokomon
 {
     public class Game1 : Game
